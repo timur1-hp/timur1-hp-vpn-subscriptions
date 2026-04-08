@@ -1,5 +1,6 @@
 [
   "vless://d2034d89-06f0-403c-9f9d-90db04d001d3@51.250.7.185:8081?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4326#%F0%9F%87%AB%F0%9F%87%AE+%F0%9F%93%A1+LTE+%D0%9E%D0%B1%D1%85%D0%BE%D0%B4+%7C+%D0%93%D0%BB%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B8",
   "vless://cda51c7c-2dd8-11f1-9ec5-baabcd4be2cd@80.66.72.137:8443?security=reality&encryption=none&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a1b2c3d4e5f6#%F0%9F%87%A9%F0%9F%87%AA+MaxVPN-4V1+%7C+%D0%9C%D0%BE%D1%89%D0%BD%D1%8B%D0%B9+%F0%9F%8F%8E%EF%B8%8F",
-  "vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@8.39.125.130:2087?path=%2F&security=tls&encryption=none&host=xqkxw.ccwu.cc&fp=chrome&allowinsecure=0&type=ws&sni=xqkxw.ccwu.cc#%D0%A1%D0%A8%D0%90%20%7C%20%40Holost_vpn%20%F0%9F%94%90"
+  "vless://8a30cf48-9fa2-46c5-8815-2822b12852e0@8.39.125.130:2087?path=%2F&security=tls&encryption=none&host=xqkxw.ccwu.cc&fp=chrome&allowinsecure=0&type=ws&sni=xqkxw.ccwu.cc#%D0%A1%D0%A8%D0%90%20%7C%20%40Holost_vpn%20%F0%9F%94%90",
+  "vless://47184a7d-e1cd-4631-93fd-20cbce472d26@158.160.155.90:443?security=reality&encryption=none&flow=xtls-rprx-vision&type=tcp&fp=chrome&pbk=aLpAD1tlGDUr-gj5ChhZdobYSIeWgq7VsB9vG9glnVU&sni=max.ru#🇷🇺%20CVEDC%20VPN"
 ]
